@@ -48,6 +48,6 @@
 
 ## Find me around the Web
 
-[![Linkedin](https://img.shields.io/badge/-Artur%20Ara%C3%BAjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+[![Linkedin](https://img.shields.io/badge/-Artur%20Ara%C3%BAjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=arturafonsoaa)](https://www.linkedin.com/in/arturafonsoaa/)
 [![Gmail Badge](https://img.shields.io/badge/-arturafonso4a@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturafonso4a@gmail.com)](mailto:arturafonso4a@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/arturafonsoaa?label=Follow&style=social)](https://github.com/arturafonsoaa)
