@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=arturafonsoaa&color=006bed)
-
 ## About Me
 
 - 👋 Hi, I'm Artur Araújo, a Software Engineer and Programming Mentor.
