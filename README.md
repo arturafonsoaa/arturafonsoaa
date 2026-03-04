@@ -1,10 +1,10 @@
-## About Me
+## 👋 About Me
 
-- 👋 Hi, I'm Artur Araújo, a Software Engineer and Programming Mentor.
-- 💻 I specialize in PHP (Laravel, Livewire, Filament) and JavaScript (VueJS).
-- 🚀 My career goal is to secure a remote Software Engineering position with an international company (preferably Europe/USA).
-- 🌱 Currently, I'm deepening my knowledge in JavaScript ecosystems and exploring Cloud technologies (AWS). I'm also writing a book about JavaScript!
-- 💼 Currently working as a Software Engineer at [Nick Saúde](https://www.nicksaude.com)
+- 💻 **Software Engineer & Programming Mentor** based in Brazil.
+- 💼 Currently working as a Software Engineer at [Nick Saúde](https://www.nicksaude.com).
+- 🛠️ **Specialties:** PHP (Laravel, Livewire, Filament) and JavaScript (Vue.js).
+- 🌱 **Currently:** Deepening my knowledge in the JS ecosystem, exploring Cloud technologies (AWS), and writing my book, *"Introdução ao Javascript"*.
+- 📫 **Let's connect:** [![Linkedin](https://img.shields.io/badge/-Artur%20Ara%C3%BAjo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=arturafonsoaa)](https://www.linkedin.com/in/arturafonsoaa/) | [![Gmail Badge](https://img.shields.io/badge/-arturafonso4a@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturafonso4a@gmail.com)](mailto:arturafonso4a@gmail.com)
 
 ## My Skills
 
