@@ -2,7 +2,7 @@
 
 **Senior Full-Stack & AI Engineer** · Laravel · TypeScript · LLM agents · based in Brazil
 
-- 🤖 **AI Engineer** at [Ideal Trends](https://www.idealtrends.com.br/), building the [IdealPro](https://www.idealpro.ai/) agents
+- 🤖 **AI Engineer & Software Engineer** at [Ideal Trends](https://www.idealtrends.com.br/) since 2021, building the [IdealPro](https://www.idealpro.ai/) agents
 - 💼 **Software Engineer** at [Nick Saúde](https://www.nicksaude.com) since 2023
 - 🤝 **Volunteer** developer at [EMA](https://emaglobal.com.br/)
 - 🧑‍🏫 **Programming mentor**
