@@ -11,7 +11,6 @@
 
 - **[IdealPro](https://www.idealpro.ai/) AI agents:** LLM-powered conversational agents in TypeScript that answer and act on top of an ERP in Brazilian Portuguese. I work on intent routing, planners, guardrails and validators, evals and golden sets, and a production runtime with backpressure, token accounting and structured run logs.
 - **Healthcare platform at [Nick Saúde](https://www.nicksaude.com/):** Laravel and Filament modules for clinics, fast check-in, asynchronous care with specialty-specific anamnesis forms, chat and order transfers, plus pharmacy dispensing, hospitalization records, reports and daily billing jobs.
-- **[Unitrends University](https://www.unitrends.online/) enrollment ("Matrícula Fácil"):** a multi-step Livewire wizard that students can resume, with PT/EN/ES terms, card checkout through a payment gateway and academic ERP provisioning.
 - **[EMA](https://emaglobal.com.br/) school management system (volunteer):** Laravel 13 and Livewire 4 with a strict modular architecture, PRDs, ADRs and a ubiquitous-language glossary.
 - **Commercial intelligence at [Ideal Trends](https://www.idealtrends.com.br/):** a Next.js and Supabase platform with edge functions for lead segmentation, plus Python tooling to build ground-truth datasets.
 
